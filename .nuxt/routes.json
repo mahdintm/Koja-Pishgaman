@@ -1,0 +1,30 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "H:\\\\Windows\\\\DataCenter\\\\Desktop\\\\Koja New\\\\app\\\\pages\\\\admin\\\\index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_d3928a4a"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "H:\\\\Windows\\\\DataCenter\\\\Desktop\\\\Koja New\\\\app\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_10bf400e"
+  },
+  {
+    "name": "admin-new-item",
+    "path": "/admin/new-item",
+    "component": "H:\\\\Windows\\\\DataCenter\\\\Desktop\\\\Koja New\\\\app\\\\pages\\\\admin\\\\new-item.vue",
+    "chunkName": "pages/admin/new-item",
+    "_name": "_6b1bdfa7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "H:\\\\Windows\\\\DataCenter\\\\Desktop\\\\Koja New\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e15c706c"
+  }
+]

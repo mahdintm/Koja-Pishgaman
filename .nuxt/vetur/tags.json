@@ -1,0 +1,20 @@
+{
+  "Card": {
+    "description": "Auto imported from components/card.vue"
+  },
+  "FaqAcordion": {
+    "description": "Auto imported from components/faq_acordion.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/footer.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "AdminNavbar": {
+    "description": "Auto imported from components/admin/navbar.vue"
+  },
+  "AdminSidebar": {
+    "description": "Auto imported from components/admin/sidebar.vue"
+  }
+}

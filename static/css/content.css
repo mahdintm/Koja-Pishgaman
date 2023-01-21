@@ -1,0 +1,42 @@
+.content{
+    padding-top: 10px;padding-bottom: 20px;
+}
+.card_{
+width: 200px;
+height: 200px;
+background: #FFFFFF;
+box-shadow: 0px 65px 63px -38px rgba(42, 171, 225, 0.2);
+border-radius: 15px;
+transition: 200ms;
+    
+}
+.card-body{
+    padding-top: 0px !important;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+}
+.card_ {
+    text-align: center !important;
+    color: black;
+
+
+}
+.card_ .logo{
+    padding-bottom: 30px;
+
+
+}
+.card_:hover {
+    border: 3px solid #2AABE1;
+    box-shadow: 0px 65px 63px -38px rgba(42, 171, 225, 0.35);
+}
+  .row{
+    display: flex;
+    margin-right: -15px;
+    margin-left: -15px;
+    flex-wrap: wrap !important;
+    align-content: center;
+    justify-content: center !important;
+}

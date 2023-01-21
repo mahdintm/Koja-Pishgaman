@@ -1,0 +1,6 @@
+.rtl{
+    direction: rtl !important;
+}
+.navbar-expand-lg .navbar-collapse {
+    flex-direction: row-reverse !important;
+}
