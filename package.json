@@ -29,7 +29,7 @@
     "jsonwebtoken": "^9.0.0",
     "mysql2": "^3.0.1",
     "npm": "^9.3.1",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.0.0",
     "path": "^0.12.7",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
