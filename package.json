@@ -27,7 +27,7 @@
     "express-fileupload": "^1.4.0",
     "i": "^0.3.7",
     "jsonwebtoken": "^9.0.0",
-    "mysql2": "^3.0.1",
+    "mysql2": "^3.9.8",
     "npm": "^9.3.1",
     "nuxt": "^2.15.8",
     "path": "^0.12.7",
